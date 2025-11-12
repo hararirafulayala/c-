@@ -1,0 +1,36 @@
+H:\c#\lesson5\lesson5\bin\Debug\net8.0\lesson5.exe
+H:\c#\lesson5\lesson5\bin\Debug\net8.0\lesson5.deps.json
+H:\c#\lesson5\lesson5\bin\Debug\net8.0\lesson5.runtimeconfig.json
+H:\c#\lesson5\lesson5\bin\Debug\net8.0\lesson5.dll
+H:\c#\lesson5\lesson5\bin\Debug\net8.0\lesson5.pdb
+H:\c#\lesson5\lesson5\bin\Debug\net8.0\ClassLibrary1.dll
+H:\c#\lesson5\lesson5\bin\Debug\net8.0\ClassLibrary1.pdb
+H:\c#\lesson5\lesson5\obj\Debug\net8.0\lesson5.csproj.AssemblyReference.cache
+H:\c#\lesson5\lesson5\obj\Debug\net8.0\lesson5.GeneratedMSBuildEditorConfig.editorconfig
+H:\c#\lesson5\lesson5\obj\Debug\net8.0\lesson5.AssemblyInfoInputs.cache
+H:\c#\lesson5\lesson5\obj\Debug\net8.0\lesson5.AssemblyInfo.cs
+H:\c#\lesson5\lesson5\obj\Debug\net8.0\lesson5.csproj.CoreCompileInputs.cache
+H:\c#\lesson5\lesson5\obj\Debug\net8.0\lesson5.csproj.Up2Date
+H:\c#\lesson5\lesson5\obj\Debug\net8.0\lesson5.dll
+H:\c#\lesson5\lesson5\obj\Debug\net8.0\refint\lesson5.dll
+H:\c#\lesson5\lesson5\obj\Debug\net8.0\lesson5.pdb
+H:\c#\lesson5\lesson5\obj\Debug\net8.0\lesson5.genruntimeconfig.cache
+H:\c#\lesson5\lesson5\obj\Debug\net8.0\ref\lesson5.dll
+W:\HandesaimV\Public\הגשת מבחנים ועבודות\Group2\הגשת תרגילים\c#\lesson5\lesson5\bin\Debug\net8.0\lesson5.exe
+W:\HandesaimV\Public\הגשת מבחנים ועבודות\Group2\הגשת תרגילים\c#\lesson5\lesson5\bin\Debug\net8.0\lesson5.deps.json
+W:\HandesaimV\Public\הגשת מבחנים ועבודות\Group2\הגשת תרגילים\c#\lesson5\lesson5\bin\Debug\net8.0\lesson5.runtimeconfig.json
+W:\HandesaimV\Public\הגשת מבחנים ועבודות\Group2\הגשת תרגילים\c#\lesson5\lesson5\bin\Debug\net8.0\lesson5.dll
+W:\HandesaimV\Public\הגשת מבחנים ועבודות\Group2\הגשת תרגילים\c#\lesson5\lesson5\bin\Debug\net8.0\lesson5.pdb
+W:\HandesaimV\Public\הגשת מבחנים ועבודות\Group2\הגשת תרגילים\c#\lesson5\lesson5\bin\Debug\net8.0\ClassLibrary1.dll
+W:\HandesaimV\Public\הגשת מבחנים ועבודות\Group2\הגשת תרגילים\c#\lesson5\lesson5\bin\Debug\net8.0\ClassLibrary1.pdb
+W:\HandesaimV\Public\הגשת מבחנים ועבודות\Group2\הגשת תרגילים\c#\lesson5\lesson5\obj\Debug\net8.0\lesson5.csproj.AssemblyReference.cache
+W:\HandesaimV\Public\הגשת מבחנים ועבודות\Group2\הגשת תרגילים\c#\lesson5\lesson5\obj\Debug\net8.0\lesson5.GeneratedMSBuildEditorConfig.editorconfig
+W:\HandesaimV\Public\הגשת מבחנים ועבודות\Group2\הגשת תרגילים\c#\lesson5\lesson5\obj\Debug\net8.0\lesson5.AssemblyInfoInputs.cache
+W:\HandesaimV\Public\הגשת מבחנים ועבודות\Group2\הגשת תרגילים\c#\lesson5\lesson5\obj\Debug\net8.0\lesson5.AssemblyInfo.cs
+W:\HandesaimV\Public\הגשת מבחנים ועבודות\Group2\הגשת תרגילים\c#\lesson5\lesson5\obj\Debug\net8.0\lesson5.csproj.CoreCompileInputs.cache
+W:\HandesaimV\Public\הגשת מבחנים ועבודות\Group2\הגשת תרגילים\c#\lesson5\lesson5\obj\Debug\net8.0\lesson5.csproj.Up2Date
+W:\HandesaimV\Public\הגשת מבחנים ועבודות\Group2\הגשת תרגילים\c#\lesson5\lesson5\obj\Debug\net8.0\lesson5.dll
+W:\HandesaimV\Public\הגשת מבחנים ועבודות\Group2\הגשת תרגילים\c#\lesson5\lesson5\obj\Debug\net8.0\refint\lesson5.dll
+W:\HandesaimV\Public\הגשת מבחנים ועבודות\Group2\הגשת תרגילים\c#\lesson5\lesson5\obj\Debug\net8.0\lesson5.pdb
+W:\HandesaimV\Public\הגשת מבחנים ועבודות\Group2\הגשת תרגילים\c#\lesson5\lesson5\obj\Debug\net8.0\lesson5.genruntimeconfig.cache
+W:\HandesaimV\Public\הגשת מבחנים ועבודות\Group2\הגשת תרגילים\c#\lesson5\lesson5\obj\Debug\net8.0\ref\lesson5.dll

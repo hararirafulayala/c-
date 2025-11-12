@@ -1,0 +1,22 @@
+H:\c#\lesson5\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.deps.json
+H:\c#\lesson5\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.dll
+H:\c#\lesson5\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.pdb
+H:\c#\lesson5\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+H:\c#\lesson5\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfoInputs.cache
+H:\c#\lesson5\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfo.cs
+H:\c#\lesson5\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+H:\c#\lesson5\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.dll
+H:\c#\lesson5\ClassLibrary1\obj\Debug\net8.0\refint\ClassLibrary1.dll
+H:\c#\lesson5\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.pdb
+H:\c#\lesson5\ClassLibrary1\obj\Debug\net8.0\ref\ClassLibrary1.dll
+W:\HandesaimV\Public\הגשת מבחנים ועבודות\Group2\הגשת תרגילים\c#\lesson5\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.deps.json
+W:\HandesaimV\Public\הגשת מבחנים ועבודות\Group2\הגשת תרגילים\c#\lesson5\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.dll
+W:\HandesaimV\Public\הגשת מבחנים ועבודות\Group2\הגשת תרגילים\c#\lesson5\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.pdb
+W:\HandesaimV\Public\הגשת מבחנים ועבודות\Group2\הגשת תרגילים\c#\lesson5\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+W:\HandesaimV\Public\הגשת מבחנים ועבודות\Group2\הגשת תרגילים\c#\lesson5\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfoInputs.cache
+W:\HandesaimV\Public\הגשת מבחנים ועבודות\Group2\הגשת תרגילים\c#\lesson5\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.AssemblyInfo.cs
+W:\HandesaimV\Public\הגשת מבחנים ועבודות\Group2\הגשת תרגילים\c#\lesson5\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+W:\HandesaimV\Public\הגשת מבחנים ועבודות\Group2\הגשת תרגילים\c#\lesson5\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.dll
+W:\HandesaimV\Public\הגשת מבחנים ועבודות\Group2\הגשת תרגילים\c#\lesson5\ClassLibrary1\obj\Debug\net8.0\refint\ClassLibrary1.dll
+W:\HandesaimV\Public\הגשת מבחנים ועבודות\Group2\הגשת תרגילים\c#\lesson5\ClassLibrary1\obj\Debug\net8.0\ClassLibrary1.pdb
+W:\HandesaimV\Public\הגשת מבחנים ועבודות\Group2\הגשת תרגילים\c#\lesson5\ClassLibrary1\obj\Debug\net8.0\ref\ClassLibrary1.dll
